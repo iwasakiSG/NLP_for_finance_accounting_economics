@@ -7,5 +7,5 @@ https://huggingface.co/datasets/financial_phrasebank
 
 P. Malo and A. Sinha and P. Korhonen and J. Wallenius and P. Takala (2014) 
 Good debt or bad debt: Detecting semantic orientations in economic texts 
-Journal of the Association for Information Science and Technology
-65
+*Journal of the Association for Information Science and Technology* 
+**65**
