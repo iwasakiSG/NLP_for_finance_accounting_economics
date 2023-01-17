@@ -3,8 +3,8 @@
 I demonstrate construction of a word weight system by using attentions that are trained with hierarchical attention network (HAN). I use Financial Phrase Bank provided by Malo and Korhonen et al (2014) to demonstrate our proposed method. Readers may refer to the link below. 
 https://huggingface.co/datasets/financial_phrasebank
 
-The main proces toward construction of the word weight system is as follows:
-(1) word2vec training
+The main proces toward construction of the word weight system is as follows: \n
+(1) word2vec training \n
 (2) HAN training
 (3) collection of trained attentions at a word level 
 Note that the provided code is designed for regression analysis, but readers may change the loss function and apply it for classification problem. The resulting word importance weights highlight key words that attract high attentions of HAN. The top 10 words are as follows: 
