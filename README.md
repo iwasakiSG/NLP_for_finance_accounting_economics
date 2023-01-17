@@ -9,11 +9,11 @@ The main proces toward construction of the word weight system is as follows: <br
 (3) collection of trained attentions at a word level  <br />
 Note that the provided code is designed for regression analysis, but readers may change the loss function and apply it for classification problem. The resulting word importance weights highlight key words that attract high attentions of HAN. The top 10 words are as follows: 
 
-|word    |    excess_attention |
-|:-------------:| -----:|
-|net     |   0.390077 | 
-|profit   |   0.259981 |
-|sales     |  0.185049 |
+|word       |excess_attention |
+|:--------: | -----:|
+|net        | 0.390077 | 
+|profit     | 0.259981 |
+|sales      | 0.185049 |
 |operating  | 0.169306 |
 |eur        | 0.153330 |
 |loss       | 0.104787 |
