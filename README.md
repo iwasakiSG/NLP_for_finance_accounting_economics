@@ -1,7 +1,7 @@
 # Toy_example
 I am primarily working on application of NLP for finance, accounting, and economics studies. 
 
-We use Financial Phrase Bank provided by Malo and Korhonen (2014) to demonstrate our proposed method. 
+We use Financial Phrase Bank provided by Malo and Korhonen et al (2014) to demonstrate our proposed method. 
 https://huggingface.co/datasets/financial_phrasebank
 
 
